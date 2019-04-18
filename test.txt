@@ -1,0 +1,15 @@
+' TEST FILE
+
+GOSUB @TEST
+PRINT "Worked!
+END
+
+@TEST
+X$ = "HELLO!" + " "
+X = (1 + 2 - 0.5) * 4 / 2
+PRINT X$
+PRINT 5,20
+RETURN
+
+XXXXXX$)x
+Fuck you Lumage ur gey
