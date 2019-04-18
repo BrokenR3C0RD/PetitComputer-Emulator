@@ -1,5 +1,5 @@
 var fs = require("fs");
-var ptc = require("./ptc");
+var ptc = require("./ptc.min");
 
 
 var runCode = function(code){
